@@ -1,0 +1,76 @@
+/*-----------------
+    Google-fonts 
+ -------------------*/
+ @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+ /* Common style */
+body {
+    font-family: "Poppins", sans-serif;
+    margin: 0;
+    padding: 0;
+} 
+.header-section{
+    background-color: #2D25A0;
+    width: 100%;
+    height: 640px;
+
+}
+/* -------------------
+   content-heading
+ ---------------------*/
+.content-heading{
+    font-size: 64px;
+    color: #fff;
+    font-weight: 700px;
+ }
+
+/* -------------------
+   Button-section
+ ---------------------*/
+.button {
+    text-decoration: none;
+    color: #fff;
+    font-weight: 500;
+    font-size: 16px;
+    padding: 10px 24px;
+    width: 168px;
+    height: 44px;
+    background: #E02C6D;
+} 
+.button:hover{
+    background-image: linear-gradient(orange, rgb(235, 8, 0));
+    transition: 3s;
+    -webkit-transition: 3s;
+    -moz-transition: 3s;
+    -ms-transition: 3s;
+    -o-transition: 3s;
+}
+.fa-arrow-right{
+    color: #fff;
+    padding: 8px;
+
+} 
+
+/* -------------------
+image-section
+ ------------------------*/
+ .header-section h1 {
+    font-size: 64px;
+    color: #fff;
+  }
+ .fix-container {
+    display: flex;
+    margin-bottom: 90px;
+  }
+  .content-section {
+    width: 50%;
+    padding-left: 157px;
+    margin-top: 80px;
+  }
+  .content-section img {
+    width: 50%;
+    width: 556.01px;
+    height: 438px;
+  }
+/* ---------------
+   Player-section
+ ------------------------*/
