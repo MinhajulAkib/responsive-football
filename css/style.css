@@ -26,11 +26,11 @@ body {
   color: #fff;
   font-weight: 500;
   font-size: 16px;
-  padding: 10px 24px;
-  width: 168px;
-  height: 45px;
+  padding: 8px 20px;
+  width: 180px;
+  height: 50px;
   background: #e02c6d;
-  padding: 20px;
+  padding: 15px;
 }
 .button:hover {
   background-image: linear-gradient(orange, rgb(235, 8, 0));
@@ -189,18 +189,18 @@ footer section
   align-items: center;
 }
 .footer-logo img {
-  width: 400px;
+  width: 500px;
   margin: 50px;
 }
 .footer-icon a {
   border: 1px solid burlywood;
-  border-radius: 26px;
-  -webkit-border-radius: 26px;
-  -moz-border-radius: 26px;
-  -ms-border-radius: 26px;
-  -o-border-radius: 26px;
-  background-color: darkgray;
-  padding: 15px;
+  border-radius: 35px;
+  -webkit-border-radius: 35px;
+  -moz-border-radius: 35px;
+  -ms-border-radius: 35px;
+  -o-border-radius: 35px;
+  background-color: #fff;
+  padding: 20px;
   margin: 5px;
 }
 p {
@@ -208,4 +208,5 @@ p {
   padding-top: 30px;
   font-weight: 700px;
   font-family: sans-serif;
+  font-size: 30px;
 }
